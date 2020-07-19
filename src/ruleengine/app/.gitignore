@@ -1,4 +1,5 @@
 *.pyc
 .idea/
 venu/
+__pycache__/
 .DS_Store
