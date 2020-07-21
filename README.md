@@ -63,9 +63,11 @@ API:
 ### 创建规则
 
 [TODO]创建规则下一版本会使用DSL语言创建，例如：
+
 `ATL1 Datetime Should Be > 2020-05-11 00:00:00`
 
 当前版本只接受类json格式创建：
+
 `<signal value> <value Type> <should/should not be> <greater than/lass than/equal to> <value>`
 
 #### 使用API接口
@@ -124,4 +126,4 @@ Response:
 
 # MORE
 
-更多使用文档和演示以及设计文档和下一版本改进，请查看在线文档[PyRE规则引擎使用及设计文档](https://www.yuque.com/books/share/fabdf0b2-58e1-4e38-9803-ba71825987b9?# 《PyRE规则引擎使用及设计文档》)
+更多使用文档和演示以及设计文档和下一版本改进，请查看在线文档[PyRE规则引擎使用及设计文档](https://www.yuque.com/books/share/fabdf0b2-58e1-4e38-9803-ba71825987b9)
